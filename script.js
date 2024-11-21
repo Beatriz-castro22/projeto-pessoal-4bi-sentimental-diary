@@ -87,8 +87,8 @@ switch (option) {
     case '6':
         alert(
             `ate mais! ${nome} se quiser escutar uma musica 
-            de acordo com o que voce ta sentindo va ao projeto
-            `)
+             de acordo com o que voce ta sentindo va ao projeto
+             sentimental playlist`)
 
     default:alert("opcao invalida!")
     
