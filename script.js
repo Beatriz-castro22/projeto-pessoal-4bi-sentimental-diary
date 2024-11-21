@@ -1,27 +1,27 @@
 function one(){
     return[
         `isso e otimoooooo!
-        fico muito feliz que esteja bem!
-        voce e incrivel, continue com energia
-        positiva isso contagia poe crer!<3`]
+         fico muito feliz que esteja bem!
+         voce e incrivel, continue com energia
+         positiva isso contagia poe crer!<3`]
 }
 
 function two(){
     return[
         `parece que algo te fez ficar assim:(
-        mais nao se preocupe! acolha o seu sentimento
-        negar ou reprimir um sentimento nao e a melhor
-        maneira de lidar com ele!
-        chore se quizer ninguem ta vendo!nao quarde essa
-        dor para si mesmo, voce vai ficar bem. `]
+         mais nao se preocupe! acolha o seu sentimento
+         negar ou reprimir um sentimento nao e a melhor
+         maneira de lidar com ele!
+         chore se quizer ninguem ta vendo!nao quarde essa
+         dor para si mesmo, voce vai ficar bem. `]
 }
 
 function thee(){
     return[
         `voce deve se acalmar nao deixe que o estresse
-        ou a raiva estraguem seu dia, respire um pouco e 
-        tome cuidado com suas palavras por que mesmo estando 
-        com raiva nao deve falar algo que pode machucar outras pessoas:)`]
+         ou a raiva estraguem seu dia, respire um pouco e 
+         tome cuidado com suas palavras por que mesmo estando 
+         com raiva nao deve falar algo que pode machucar outras pessoas:)`]
 }
 
 function four(){
@@ -85,7 +85,8 @@ switch (option) {
         break;
 
     case '6':
-        alert(`ate mais!se quiser escutar uma musica 
+        alert(
+            `ate mais! ${nome} se quiser escutar uma musica 
             de acordo com o que voce ta sentindo va ao projeto
             `)
 
