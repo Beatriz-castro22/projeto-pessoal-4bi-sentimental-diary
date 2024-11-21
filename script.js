@@ -46,14 +46,14 @@ Busque o bem-estar emocional na terapia`
 
 do{
     let nome = prompt('Oiii bem vindo ao sentimental diary ,por gentileza digite seu nome <3' )
-    prompt(`Ola ${nome} qual sentimento voce esta sentido hoje? 
+    let option = prompt(`Ola ${nome} qual sentimento voce esta sentido hoje? 
         1-Feliz
         2-Triste
         3-Raiva 
         4-Ansioso
         5-Solitario
         6-sair` )
-switch (nome) {
+switch (option) {
     case '1':
         let happy = one()
         alert(`esta feliz!
@@ -93,4 +93,4 @@ switch (nome) {
     
 }
 
-}while (nome !== '6')
+}while (option !== '6')
