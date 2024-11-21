@@ -1,7 +1,7 @@
 function one(){
     return[
         `isso e otimoooooo!
-        fico muito feliz que esteja bem ${nome}!
+        fico muito feliz que esteja bem!
         voce e incrivel, continue com energia
         positiva isso contagia poe crer!<3`]
 }
@@ -13,7 +13,7 @@ function two(){
         negar ou reprimir um sentimento nao e a melhor
         maneira de lidar com ele!
         chore se quizer ninguem ta vendo!nao quarde essa
-        dor para si mesmo, voce vai ficar bem ${nome} `]
+        dor para si mesmo, voce vai ficar bem. `]
 }
 
 function thee(){
@@ -28,7 +28,7 @@ function four(){
     return[
         `Meditacao, joga, ouvir musica, fazer uma massagem, caminhar,
         ler um livro ou ver um filme divertido podem ajudar a relaxa.
-        e normal se sentir ansioso as vezes ta tudo bem ${nome}`
+        e normal se sentir ansioso as vezes ta tudo bem.`
     ]
 }
 
