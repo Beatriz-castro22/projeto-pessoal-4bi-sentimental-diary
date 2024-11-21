@@ -57,31 +57,31 @@ switch (nome) {
     case '1':
         let happy = one()
         alert(`esta feliz!
-        ${happy.join('\n')}`)
+             ${happy.join('\n')}`)
         break;
 
     case '2':
         let sad = two()  
         alert(`esta triste?
-        ${sad.join('\n')}`)
+             ${sad.join('\n')}`)
         break;
         
     case '3':
         let angry = thee()
         alert(`esta com raiva?
-        ${angry.join('\n')}`)
+             ${angry.join('\n')}`)
         break;
 
     case '4':
     let anxiety = four()
     alert(`esta ansioso?
-    ${anxiety.join('\n')}`)
+        ${anxiety.join('\n')}`)
     break;
 
     case '5':
         let lonely = five()
         alert(`esta solitario?
-        ${lonely.join('\n')}`)
+            ${lonely.join('\n')}`)
         break;
 
     case '6':
