@@ -44,8 +44,6 @@ Busque o bem-estar emocional na terapia`
     ]
 }
 
-const sentiments = []
-const option = ''
 do{
     let nome = prompt('Oiii bem vindo ao sentimental diary ,por gentileza digite seu nome <3' )
     prompt(`Ola ${nome} qual sentimento voce esta sentido hoje? 
@@ -90,6 +88,9 @@ switch (nome) {
         alert(`ate mais!se quiser escutar uma musica 
             de acordo com o que voce ta sentindo va ao projeto
             `)
+
+    default:alert("opcao invalida!")
+    
 }
 
 }while (nome !== '6')
