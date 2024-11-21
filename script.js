@@ -90,9 +90,6 @@ switch (nome) {
         alert(`ate mais!se quiser escutar uma musica 
             de acordo com o que voce ta sentindo va ao projeto
             `)
-
-    default:alert("opcao invalida!")
-    
 }
 
 }while (nome !== '6')
